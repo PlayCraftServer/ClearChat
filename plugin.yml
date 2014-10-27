@@ -1,0 +1,17 @@
+name: ClearChat
+main: me.DJBiokinetix.Chat
+author: DJBiokinetix
+version: 1.1
+website: http://www.playcraftsv.com
+description: Clear the chat!
+commands:
+   cc:
+    description: Clear the chat
+    aliases: [clearchat, cchat, clchat]
+permissions:
+    cc.clear:
+        default: op
+    cc.reload:
+        default: op
+    cc.lines:
+        default: op

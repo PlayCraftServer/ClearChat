@@ -1,0 +1,23 @@
+#------------------------------------------------#
+#            ¡The ClearChat Plugin!              #
+#             ¡Configuration Files!              #
+#        The plugin accept the color codes:      #
+#                                                #
+#           &1 = Dark Blue | &2 = Dark Green     #
+#           &3 = Dark Aqua | &4 = Dark Red       #
+#           &5 = Purple    | &6 = Gold           #
+#           &7 = Gray      | &8 = Dark Gray      #
+#           &9 = Blue      | &0 = Black          #
+#           &a = Green     | &b = Aqua           #
+#           &c = Red       | &d = Pink           #
+#           &e = Yellow    | &f = White          #
+#           &r = Reset     | &l = BOLD           #
+#           &k = Magic     | &o = Italic         #
+#                                                # 
+#           Thanks for use my plugin! ;)         #
+#          ChearChat 1.0 by DJBiokinetix         #
+#------------------------------------------------#
+Prefix: '&8[&6CC&8]&c'
+CMessage: '&r'
+Message: '&7has cleaned the chat!'
+Lines: 150
