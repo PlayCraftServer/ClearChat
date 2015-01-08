@@ -1,8 +1,8 @@
 name: ClearChat
-main: me.DJBiokinetix.Chat
+main: me.DJBiokinetix.Main
 author: DJBiokinetix
-version: 1.1
-website: http://www.playcraftsv.com
+version: 1.2
+website: http://www.spigotmc.org/resources/clearchat.1362/
 description: Clear the chat!
 commands:
    cc:
@@ -14,4 +14,8 @@ permissions:
     cc.reload:
         default: op
     cc.lines:
+        default: op
+    cc.updates:
+        default: op
+    cc.personal:
         default: op
